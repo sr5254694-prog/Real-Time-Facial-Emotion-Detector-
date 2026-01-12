@@ -52,4 +52,5 @@ Academic and practical project developed as part of a BSc IT program.
 - Emotion analytics and reporting
 - Integration with real-world applications
 
-[GitHub Repository Link](https://github.com/ReshmaShaikh/Real-Time-Facial-Emotion-Detector)
+[GitHub Repository Link](https://github.com/sr5254694-prog
+
